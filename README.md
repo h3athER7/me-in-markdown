@@ -8,4 +8,4 @@
 ## playlist
 [This is my spotify playlist!](https://open.spotify.com/playlist/7cKZSRxVlqRewFwGCDympO)
 ## collage
-![this is an image of my collage]()
+![this is an image of my collage](<Untitled design.png>))
